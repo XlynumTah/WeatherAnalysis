@@ -1,17 +1,18 @@
 # WeatherAnalysis
 
-- Dữ liệu ban đầu:
+- Raw dataset:
 data_1000_samples_raw.xlsx,
 data_10000_samples_raw.xlsx
-- Dữ liệu sau khi clean:
+
+- Clean dataset:
 data_1000_samples_clean.xlsx,
 data_10000_samples_clean.xlsx
 
 
-- Chạy chương trình mô tả trực quan phân tích:
+- Run Visuallize and Analyze:
 weatherVisuallize_1000.ipynb,
 weatherVisuallize_10000.ipynb
 
 
-- Chạy Standard Scaling để lấy data Scaling:
+- Run StandardScaling for standard scaling dataset:
 weatherVisuallize_1000.ipynb
